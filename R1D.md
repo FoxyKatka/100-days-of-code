@@ -9,6 +9,6 @@ The log of my #100DaysOfCode challenge. Started on [October 03, Wednesday, 2018]
 
 **Today's Progress**: Started 100 Days Of Code.
 
-**Thoughts:** I am Committing myself to the 100 Days of code challenge so that I can improve and gain more confidence in my skills as a developer. Throughout the next 100 days, I aim to finish some personal and work related projects, I am also hoping to meet and chat with other developers to encourage them in their challenges :)   
+**Thoughts:** I am Committing myself to the #100DaysOfCode challenge. Throughout the next 100 days I aim to improve my javascript and finish some personal and work related projects, I am also hoping to meet and chat with other developers to encourage them in their challenges :)   
 
-**Link to Twitter:** [post]()
+**Link to Twitter:** [post](https://twitter.com/FoxyKatka/status/1047393020495245312)
