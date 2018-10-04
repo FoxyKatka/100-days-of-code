@@ -19,4 +19,4 @@ The log of my #100DaysOfCode challenge. Started on [October 03, Wednesday, 2018]
 
 **Thoughts:**    
 
-**Link to Work:** [Wp-timeline](https://github.com/12bitvn/wordpress-timeline/pull/3)[Javascript](https://github.com/FoxyKatka/Random/tree/master/Javascript/CJC%20-%20js/03%20Lectures)
+**Link to Work:** [Wp-timeline](https://github.com/12bitvn/wordpress-timeline/pull/3) + [Javascript](https://github.com/FoxyKatka/Random/tree/master/Javascript/CJC%20-%20js/03%20Lectures)
