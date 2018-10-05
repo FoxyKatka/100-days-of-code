@@ -20,3 +20,12 @@ The log of my #100DaysOfCode challenge. Started on [October 03, Wednesday, 2018]
 **Thoughts:**    
 
 **Link to Work:** [Wp-timeline](https://github.com/12bitvn/wordpress-timeline/pull/3) + [Javascript](https://github.com/FoxyKatka/Random/tree/master/Javascript/CJC%20-%20js/03%20Lectures)
+
+### Day 02: October 05, 2018
+
+**Today's Progress**: Created a JavaScript dice game from a course
+
+**Thoughts:**  It taught me a lot about DOM manipulation and Events.
+
+**Link to Work:** [Dice Game](https://github.com/FoxyKatka/Random/tree/master/Javascript/CJC%20-%20js/04%20DOM%20Manipulation%20and%20Events)
+
