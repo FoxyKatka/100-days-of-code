@@ -37,7 +37,7 @@ The log of my #100DaysOfCode challenge. Started on [October 03, Wednesday, 2018]
 
 **Link to Work:** [Commits]()
 
-### Day 03: October 06, 2018
+### Day 04: October 07, 2018
 
 **Today's Progress**: Continuing to work through a javascript course
 
