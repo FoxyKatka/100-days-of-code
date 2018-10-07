@@ -29,3 +29,18 @@ The log of my #100DaysOfCode challenge. Started on [October 03, Wednesday, 2018]
 
 **Link to Work:** [Dice Game](https://github.com/FoxyKatka/Random/tree/master/Javascript/CJC%20-%20js/04%20DOM%20Manipulation%20and%20Events)
 
+### Day 03: October 06, 2018
+
+**Today's Progress**: Continuing to work through a javascript course
+
+**Thoughts:**  Im Finishing up the DOM manipulation and Events section
+
+**Link to Work:** [Commits]()
+
+### Day 03: October 06, 2018
+
+**Today's Progress**: Continuing to work through a javascript course
+
+**Thoughts:**  starting to work through the objects and functions section 
+
+**Link to Work:** [Commits]()
