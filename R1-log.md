@@ -44,3 +44,27 @@ The log of my #100DaysOfCode challenge. Started on [October 03, Wednesday, 2018]
 **Thoughts:**  starting to work through the objects and functions section 
 
 **Link to Work:** [Commits]()
+
+### Day 05: October 08, 2018
+
+**Today's Progress**: Continuing to work through a javascript course
+
+**Thoughts:**  
+
+**Link to Work:** [Commits]()
+
+### Day 06: October 09, 2018
+
+**Today's Progress**: Continuing to work through a javascript course
+
+**Thoughts:**  
+
+**Link to Work:** [Commits]()
+
+### Day 07: October 10, 2018
+
+**Today's Progress**: Continuing to work through a javascript course
+
+**Thoughts:**  
+
+**Link to Work:** [Commits]()
